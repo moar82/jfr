@@ -1,0 +1,12 @@
+/target/
+*.class
+jfreechart/.classpath
+jfreechart/.classpath
+jfreechart/.gitignore
+jfreechart/.project
+jfreechart/.settings/
+jfreechart/bin/
+jfreechart/jfreechart-1.0.19-demo.jar
+jfreechart/refgen/
+
+
